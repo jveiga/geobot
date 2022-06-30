@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 geohash = "0.12.0"
 reqwest = "0.11.11"
+tokio = "1.19.2"
